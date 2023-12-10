@@ -19,12 +19,12 @@ Algoritmo Possibilidade 1:
 9 - mostra o resutado da idade em dias.
 
 
-Algoritmo Possibilidade 2: 
+Possibilidade 2: 
 
 Nessa possibilidade o usuario faz 3 entradas diferentes dos anos, meses e dias.
 Logo faz a conta para converter-los em apenas dias e faz um print do resustado. 
 
-Possibilidade 2:
+Algoritmo Possibilidade 2:
 1 - Uma entrada para o usuario entrar com os anos.
 2 - Uma entrada para o usuario entrar com os meses.
 3 - uma entrada para o usuario entrar com os dias.
